@@ -1,1 +1,0 @@
-This is the backend for fullstackopen project, frontend can be found at https://github.com/kristianka/fullstack-project.
